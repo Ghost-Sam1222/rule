@@ -4,7 +4,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://api.wd-blue.com/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=WestData&url=https%3A%2F%2Fwd-blue.com%2Fsubscribe%2Fjgprqm-r9zqhydx"
+    url: "订阅链接一：已经被泄露偷跑过了"
     type: http
     interval: 86400
     health-check:
@@ -13,7 +13,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   Airport2:
-    url: "https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com/api/v1/client/subscribe?token=1e7f3f2f21ae4b72ce7ea35c602e364b"
+    url: "订阅链接二：已经被泄露偷跑过了"
     type: http
     interval: 86400
     health-check:
